@@ -19,6 +19,12 @@
         "url-loader": "^2.1.0",
         "webpack": "^4.39.3",
         "webpack-cli": "^3.3.8",
-        "webpack-dev-server": "^3.8.0"
+        "webpack-dev-server": "^3.8.0",
+        "@babel/core": "^7.5.5",
+        "@babel/plugin-proposal-class-properties": "^7.5.5",
+        "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+        "@babel/preset-env": "^7.5.5",
+        "@babel/preset-typescript": "^7.3.3",
+        "babel-loader": "^8.0.6"
     }
 }
